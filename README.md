@@ -55,10 +55,11 @@
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
-
-![](https://github-readme-stats.vercel.app/api?username=Alfianzyh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianzyh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Alfianzyh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianzyh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ###
 
