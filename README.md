@@ -55,8 +55,9 @@
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
-
-![](https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=dark&hide_border=false)<br/>
+<div align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=dark&hide_border=false)<br/>
+</div>
 
 ###
 
