@@ -48,6 +48,7 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t39.30808-1/302491264_447689710712870_8058423586079742582_n.png?stp=dst-png_s200x200&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=loMdymLzpRcQ7kNvwE88WEB&_nc_oc=AdmaGeqd5_NmU_ldYHAyiuCxbJLq4g74TV6eV543IK_Tc6K_WdX4toawuW6Rp2ydG9g&_nc_zt=24&_nc_ht=scontent.fsub8-1.fna&_nc_gid=1CE-DcUUSft3yNikEYd5ZA&oh=00_AfRLm0nxfvtkb50j2SHEnRDDtlw2rTBZfkumdPksZXJ2oQ&oe=68883E6D" alt="git" width="40" height="40"/> </a> 
  </p>
  
 ###
