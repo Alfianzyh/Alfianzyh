@@ -66,16 +66,6 @@
 
 ###
 
-<h3 align="center"> 🏆 GitHub Trophies
-  
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alfianzyh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfianzyh/Alfianzyh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alfianzyh/Alfianzyh/output/pacman-contribution-graph.svg">
