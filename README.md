@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YaXioz.YaXioz&"  />
-</div>
-
-###
-
 <h1 align="center">Hello my fellow programmer, Welcome to my Github page👋</h1>
 
 ###
