@@ -15,6 +15,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alfianzyh.Alfianzyh&"  />
+</div>
+###
+
+###
+
 <h1 align="center">Hello my fellow programmer, Welcome to my Github page👋</h1>
 
 ###
@@ -70,7 +77,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfianzyh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=codeSTACKr&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianzyh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img src="https://github-profile-trophy.vercel.app?username=Alfianzyh&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
