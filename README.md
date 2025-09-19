@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alfianzyh.Alfianzyh&"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/muhalfisyah/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
